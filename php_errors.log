@@ -1,0 +1,364 @@
+[18-Mar-2016 17:28:42 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:28:42 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/index.php on line 3
+[18-Mar-2016 17:29:10 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:29:10 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/index.php on line 3
+[18-Mar-2016 17:29:10 UTC] PHP Notice:  Undefined variable: rdir in /home/jiitpiyush/public_html/login/index.php on line 63
+[18-Mar-2016 17:31:36 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/login.php on line 54
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:40 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:41 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:41 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:41 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:41 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:41 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:41 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:41 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:41 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:42 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:42 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:42 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:42 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:45 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:46 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:46 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:46 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:46 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:46 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:46 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:46 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:48 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:48 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:48 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:48 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:34:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:34:48 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:35:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:35:26 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:35:30 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:35:30 UTC] PHP Notice:  Undefined variable: rdir in /home/jiitpiyush/public_html/login/index.php on line 63
+[18-Mar-2016 17:36:01 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:37:35 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:37:38 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:37:41 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:37:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[18-Mar-2016 17:37:45 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 5
+[18-Mar-2016 17:37:51 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:38:05 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/login.php on line 56
+[18-Mar-2016 17:38:20 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:38:20 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/index.php on line 3
+[18-Mar-2016 17:38:24 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:38:24 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/index.php on line 3
+[18-Mar-2016 17:38:26 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/index.php on line 2
+[18-Mar-2016 17:38:26 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/index.php on line 3
+[18-Mar-2016 17:43:54 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:43:54 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:44:02 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/login.php on line 56
+[18-Mar-2016 17:45:27 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:45:34 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/login.php on line 56
+[18-Mar-2016 17:46:11 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:46:11 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:46:14 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:46:14 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:48:21 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/login.php on line 57
+[18-Mar-2016 17:53:25 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:53:25 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:53:39 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/index.php on line 56
+[18-Mar-2016 17:53:57 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:53:57 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:54:03 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:54:03 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:56:07 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:56:07 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:56:13 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 4
+[18-Mar-2016 17:56:13 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 6
+[18-Mar-2016 17:56:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[18-Mar-2016 17:56:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[18-Mar-2016 17:56:16 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:56:16 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:56:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[18-Mar-2016 17:56:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[18-Mar-2016 17:56:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[18-Mar-2016 17:56:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[18-Mar-2016 17:56:27 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:56:27 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 17:58:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[18-Mar-2016 17:58:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[18-Mar-2016 17:58:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[18-Mar-2016 17:58:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[18-Mar-2016 17:58:20 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/login_form.php on line 2
+[18-Mar-2016 17:58:20 UTC] PHP Notice:  Undefined index: xlazx in /home/jiitpiyush/public_html/login/login_form.php on line 3
+[18-Mar-2016 18:08:21 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[18-Mar-2016 18:08:21 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[18-Mar-2016 18:09:00 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[18-Mar-2016 18:09:00 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[18-Mar-2016 18:12:38 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[18-Mar-2016 18:12:38 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[18-Mar-2016 19:03:42 UTC] PHP Notice:  Undefined index: email in /home/jiitpiyush/public_html/login/signup.php on line 2
+[18-Mar-2016 19:03:42 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/signup.php on line 3
+[18-Mar-2016 19:03:42 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 4
+[19-Mar-2016 03:34:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 6
+[19-Mar-2016 03:34:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 6
+[19-Mar-2016 03:35:35 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 6
+[19-Mar-2016 03:35:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 6
+[19-Mar-2016 03:35:49 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/jiitpiyush/public_html/login/logout.php on line 4
+[19-Mar-2016 03:35:49 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 6
+[19-Mar-2016 03:35:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 6
+[19-Mar-2016 03:40:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:30 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/index.php on line 58
+[19-Mar-2016 03:40:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:35 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/index.php on line 58
+[19-Mar-2016 03:40:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:40:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:40:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:43:49 UTC] PHP Warning:  include(/home/u383794791/public_html/user_data.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/team/index.php on line 2
+[19-Mar-2016 03:43:49 UTC] PHP Warning:  include(): Failed opening '/home/u383794791/public_html/user_data.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/team/index.php on line 2
+[19-Mar-2016 03:43:49 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/team/index.php on line 101
+[19-Mar-2016 03:43:49 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/team/index.php on line 101
+[19-Mar-2016 03:43:50 UTC] PHP Warning:  include(/home/u383794791/public_html/user_data.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/team/index.php on line 2
+[19-Mar-2016 03:43:50 UTC] PHP Warning:  include(): Failed opening '/home/u383794791/public_html/user_data.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/team/index.php on line 2
+[19-Mar-2016 03:43:50 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/team/index.php on line 101
+[19-Mar-2016 03:43:50 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/team/index.php on line 101
+[19-Mar-2016 03:43:50 UTC] PHP Warning:  include(/home/u383794791/public_html/user_data.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/team/index.php on line 2
+[19-Mar-2016 03:43:50 UTC] PHP Warning:  include(): Failed opening '/home/u383794791/public_html/user_data.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/team/index.php on line 2
+[19-Mar-2016 03:43:50 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/team/index.php on line 101
+[19-Mar-2016 03:43:50 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/team/index.php on line 101
+[19-Mar-2016 03:47:53 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 6
+[19-Mar-2016 03:48:15 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[19-Mar-2016 03:48:23 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 2
+[19-Mar-2016 03:53:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 3
+[19-Mar-2016 03:53:06 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 3
+[19-Mar-2016 03:55:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 3
+[19-Mar-2016 03:55:17 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:55:17 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 03:55:17 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 03:57:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 3
+[19-Mar-2016 03:57:08 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 3
+[19-Mar-2016 03:57:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/jiitpiyush/public_html/login/logout.php on line 3
+[19-Mar-2016 03:59:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:59:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:59:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 9
+[19-Mar-2016 03:59:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:59:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:59:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 9
+[19-Mar-2016 03:59:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 5
+[19-Mar-2016 03:59:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 03:59:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/jiitpiyush/public_html/login/index.php on line 9
+[19-Mar-2016 04:04:53 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:04:53 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:04:53 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:05:00 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:05:00 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:05:00 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:05:07 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:05:07 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:05:07 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:05:08 UTC] PHP Notice:  Undefined variable: user in /home/jiitpiyush/public_html/login/index.php on line 59
+[19-Mar-2016 04:05:08 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:05:08 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:05:08 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:05:13 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:05:13 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:05:13 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:05:48 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:05:48 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:05:48 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:06:03 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:06:03 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:06:03 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:09:44 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:09:44 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:09:44 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:09:55 UTC] PHP Notice:  Undefined index: Username in /home/jiitpiyush/public_html/login/index.php on line 6
+[19-Mar-2016 04:09:55 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 7
+[19-Mar-2016 04:09:55 UTC] PHP Notice:  Undefined index: LoggedIn in /home/jiitpiyush/public_html/login/index.php on line 10
+[19-Mar-2016 04:10:02 UTC] PHP Notice:  Undefined index: email in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:10:02 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/signup.php on line 3
+[19-Mar-2016 04:10:02 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 4
+[19-Mar-2016 04:11:29 UTC] PHP Notice:  Undefined index: email in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:11:29 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/signup.php on line 3
+[19-Mar-2016 04:11:29 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 4
+[19-Mar-2016 04:43:55 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:43:55 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:43:55 UTC] PHP Notice:  Undefined index: email in /home/jiitpiyush/public_html/login/signup.php on line 3
+[19-Mar-2016 04:43:55 UTC] PHP Notice:  Undefined index: user in /home/jiitpiyush/public_html/login/signup.php on line 4
+[19-Mar-2016 04:43:55 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 04:44:10 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 04:44:10 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 04:44:10 UTC] PHP Notice:  Undefined variable: password in /home/jiitpiyush/public_html/login/register.php on line 57
+[19-Mar-2016 04:44:10 UTC] PHP Notice:  Undefined variable: email in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 04:44:10 UTC] PHP Notice:  Undefined variable: username in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 04:44:14 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:44:14 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:44:14 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 04:44:57 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:44:57 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:44:57 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 04:45:09 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 04:45:09 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 04:45:09 UTC] PHP Notice:  Undefined variable: password in /home/jiitpiyush/public_html/login/register.php on line 57
+[19-Mar-2016 04:45:09 UTC] PHP Notice:  Undefined variable: email in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 04:45:09 UTC] PHP Notice:  Undefined variable: username in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 04:45:12 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:45:12 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 04:45:12 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:11:08 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:11:08 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:11:08 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:11:22 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:11:22 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:11:22 UTC] PHP Notice:  Undefined variable: fname_b in /home/jiitpiyush/public_html/login/register.php on line 21
+[19-Mar-2016 05:11:22 UTC] PHP Notice:  Undefined variable: password in /home/jiitpiyush/public_html/login/register.php on line 57
+[19-Mar-2016 05:11:22 UTC] PHP Notice:  Undefined variable: email in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 05:11:22 UTC] PHP Notice:  Undefined variable: username in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 05:11:24 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:11:24 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:11:24 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:14:06 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:14:06 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:14:06 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:14:17 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:14:17 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:14:17 UTC] PHP Notice:  Undefined variable: fname_b in /home/jiitpiyush/public_html/login/register.php on line 21
+[19-Mar-2016 05:14:17 UTC] PHP Notice:  Undefined variable: password in /home/jiitpiyush/public_html/login/register.php on line 57
+[19-Mar-2016 05:14:17 UTC] PHP Notice:  Undefined variable: email in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 05:14:17 UTC] PHP Notice:  Undefined variable: username in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 05:14:20 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:14:20 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:14:20 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:14:34 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:14:34 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:14:34 UTC] PHP Notice:  Undefined variable: fname_b in /home/jiitpiyush/public_html/login/register.php on line 21
+[19-Mar-2016 05:14:34 UTC] PHP Notice:  Undefined variable: password in /home/jiitpiyush/public_html/login/register.php on line 57
+[19-Mar-2016 05:14:34 UTC] PHP Notice:  Undefined variable: email in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 05:14:34 UTC] PHP Notice:  Undefined variable: username in /home/jiitpiyush/public_html/login/register.php on line 58
+[19-Mar-2016 05:16:20 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:16:20 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:16:20 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:16:30 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:16:30 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:16:30 UTC] PHP Notice:  Undefined variable: db in /home/jiitpiyush/public_html/login/register.php on line 35
+[19-Mar-2016 05:16:30 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jiitpiyush/public_html/login/register.php on line 35
+[19-Mar-2016 05:18:37 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:18:37 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:18:37 UTC] PHP Notice:  Undefined index: username in /home/jiitpiyush/public_html/login/register.php on line 4
+[19-Mar-2016 05:18:37 UTC] PHP Notice:  Undefined index: password in /home/jiitpiyush/public_html/login/register.php on line 5
+[19-Mar-2016 05:18:37 UTC] PHP Notice:  Undefined index: email in /home/jiitpiyush/public_html/login/register.php on line 6
+[19-Mar-2016 05:18:37 UTC] PHP Notice:  Undefined index: fname in /home/jiitpiyush/public_html/login/register.php on line 7
+[19-Mar-2016 05:18:37 UTC] PHP Notice:  Undefined index: lname in /home/jiitpiyush/public_html/login/register.php on line 8
+[19-Mar-2016 05:18:39 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:18:39 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:18:39 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:18:49 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:18:49 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:18:49 UTC] PHP Notice:  Undefined variable: db in /home/jiitpiyush/public_html/login/register.php on line 37
+[19-Mar-2016 05:18:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jiitpiyush/public_html/login/register.php on line 37
+[19-Mar-2016 05:18:53 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:18:53 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:18:53 UTC] PHP Notice:  Undefined index: username in /home/jiitpiyush/public_html/login/register.php on line 4
+[19-Mar-2016 05:18:53 UTC] PHP Notice:  Undefined index: password in /home/jiitpiyush/public_html/login/register.php on line 5
+[19-Mar-2016 05:18:53 UTC] PHP Notice:  Undefined index: email in /home/jiitpiyush/public_html/login/register.php on line 6
+[19-Mar-2016 05:18:53 UTC] PHP Notice:  Undefined index: fname in /home/jiitpiyush/public_html/login/register.php on line 7
+[19-Mar-2016 05:18:53 UTC] PHP Notice:  Undefined index: lname in /home/jiitpiyush/public_html/login/register.php on line 8
+[19-Mar-2016 05:18:54 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:18:54 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:18:54 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:21:01 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:21:01 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:21:01 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:21:17 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:21:17 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:21:17 UTC] PHP Notice:  Undefined variable: db in /home/jiitpiyush/public_html/login/register.php on line 37
+[19-Mar-2016 05:21:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jiitpiyush/public_html/login/register.php on line 37
+[19-Mar-2016 05:27:23 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:27:23 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:27:23 UTC] PHP Notice:  Undefined index: username in /home/jiitpiyush/public_html/login/register.php on line 4
+[19-Mar-2016 05:27:23 UTC] PHP Notice:  Undefined index: password in /home/jiitpiyush/public_html/login/register.php on line 5
+[19-Mar-2016 05:27:23 UTC] PHP Notice:  Undefined index: email in /home/jiitpiyush/public_html/login/register.php on line 6
+[19-Mar-2016 05:27:23 UTC] PHP Notice:  Undefined index: fname in /home/jiitpiyush/public_html/login/register.php on line 7
+[19-Mar-2016 05:27:23 UTC] PHP Notice:  Undefined index: lname in /home/jiitpiyush/public_html/login/register.php on line 8
+[19-Mar-2016 05:27:23 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:27:23 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/signup.php on line 2
+[19-Mar-2016 05:27:23 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:27:46 UTC] PHP Warning:  include(r_logout.php): failed to open stream: No such file or directory in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:27:46 UTC] PHP Warning:  include(): Failed opening 'r_logout.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/jiitpiyush/public_html/login/register.php on line 1
+[19-Mar-2016 05:27:46 UTC] PHP Notice:  Undefined variable: db in /home/jiitpiyush/public_html/login/register.php on line 37
+[19-Mar-2016 05:27:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jiitpiyush/public_html/login/register.php on line 37
+[19-Mar-2016 05:29:19 UTC] PHP Notice:  Undefined index: username in /home/jiitpiyush/public_html/login/register.php on line 4
+[19-Mar-2016 05:29:19 UTC] PHP Notice:  Undefined index: password in /home/jiitpiyush/public_html/login/register.php on line 5
+[19-Mar-2016 05:29:19 UTC] PHP Notice:  Undefined index: email in /home/jiitpiyush/public_html/login/register.php on line 6
+[19-Mar-2016 05:29:19 UTC] PHP Notice:  Undefined index: fname in /home/jiitpiyush/public_html/login/register.php on line 7
+[19-Mar-2016 05:29:19 UTC] PHP Notice:  Undefined index: lname in /home/jiitpiyush/public_html/login/register.php on line 8
+[19-Mar-2016 05:29:19 UTC] PHP Notice:  Undefined index: pass in /home/jiitpiyush/public_html/login/signup.php on line 5
+[19-Mar-2016 05:29:29 UTC] PHP Notice:  Undefined variable: db in /home/jiitpiyush/public_html/login/register.php on line 37
+[19-Mar-2016 05:29:29 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jiitpiyush/public_html/login/register.php on line 37

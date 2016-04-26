@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8"/>
+	<link rel="icon" type="image/png" href="/images/logo.png" />
+	<style type="text/css">
+		.center
+		{
+			text-align: center;
+		}
+		.gap
+		{
+			margin-top: 150px;
+		}
+		.search_box
+		{
+			vertical-align: center;
+			height:35px;
+			width:60%;
+			margin-bottom: 20px;
+			margin-top: 2%;
+		}
+		@media(max-width: 600px){.search_box{width: 98%;}}
+		@media(min-width: 601px){.search_box{width: 60%;}}
+		
+		.brand-name{
+			color: #77C159;
+			font-size: 1.9em;
+			text-shadow: 2px 2px 3px #CCC;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<div class='center gap'><span class='brand-name'>LINKBAZAAR</span> </div>
+	<form method="GET" action="/search/">
+		<div class='center' >
+			<input name='search' class='search_box'><br/>
+			<input type="image" name="submit" src="/images/search.png" width='40px' height='40px' border="0" alt="Search" />
+			<br/><br/>
+		</div>
+	</form>
+</body>
+</html>

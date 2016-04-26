@@ -1,0 +1,37 @@
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE text/jquery
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/x-font
+AddOutputFilterByType DEFLATE application/x-font-truetype
+AddOutputFilterByType DEFLATE application/x-font-ttf
+AddOutputFilterByType DEFLATE application/x-font-otf
+AddOutputFilterByType DEFLATE application/x-font-opentype
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+AddOutputFilterByType DEFLATE font/ttf
+AddOutputFilterByType DEFLATE font/otf
+AddOutputFilterByType DEFLATE font/opentype
+
+<files *.jpg>
+SetOutputFilter DEFLATE
+</files>
+<files *.jpeg>
+SetOutputFilter DEFLATE
+</files>
+<files *.png>
+SetOutputFilter DEFLATE
+</files>
+
+
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^linkbazaar.com [NC]
+RewriteCond %{HTTP_HOST} !^(www\.example\.com)?$ 
+RewriteRule ^(.*)$ http://www.linkbazaar.com/$1 [L,R=301]
