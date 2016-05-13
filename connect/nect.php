@@ -1,7 +1,5 @@
 <?php
 	$db_s 	= 'localhost';
-	//$db_u 	= 'mysql_jiitpiyush';
-	//$db_p 	= '#Neverused1%%';
 	
 	$db_u 	= 'root';
 	$db_p 	= 'password';
