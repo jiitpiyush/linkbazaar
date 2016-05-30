@@ -146,12 +146,13 @@
                         <div class="btn-group" role="group">
                             <a  href="/account/">
                                 <button type="button" id="stars" class="btn btn-default"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span>
-                                <div class="hidden-xs">Bookmark</div>
-                            </button>
+                                    <div class="hidden-xs">Bookmark</div>
+                                </button>
                             </a>
                         </div>
                         <div class="btn-group" role="group">
-                            <button type="button" id="following" class="btn btn-primary" href="#tab2" data-toggle="tab"><img src="http://uxrepo.com/static/icon-sets/google-material/png32/256/000000/android-history-256-000000.png" width=28.05px height=24px/>
+                            <button type="button" id="following" class="btn btn-primary" href="#tab2" data-toggle="tab">
+                            <img src="/images/history_icon.png" width=28.05px height=24px/>
                                 <div class="hidden-xs">History</div>
                             </button>
                         </div>
@@ -161,9 +162,9 @@
                                 <div class="hidden-xs">Favorites</div>
                             </button>
                         </div>
-                        -->
-                        
-                    </div>
+                    -->
+
+                </div>
 
                     <div class="well">
                         <div class="tab-content">

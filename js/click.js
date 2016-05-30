@@ -38,14 +38,14 @@ $(function () {
                             if($.trim(data).indexOf("login")==0){
                                 setTimeout(function() {
                                   ref.toggleClass('glyphicon-star glyphicon-star-empty');
-                                }, 200);
+                                }, 10);
                                 setTimeout(function() {
                                   var r = confirm("Please Login to Bookmark a link\nGo to Login Page?");
                                   if(r)
                                   {
                                     window.location = '/login/';
                                   }
-                                }, 700);  
+                                }, 10);  
                             }
                     },
                     error:function(){
@@ -97,14 +97,14 @@ $(function () {
                                 setTimeout(function() {
                                   ref.toggleClass('th-up');
                                   $("#"+num).children("sub").html("votes: "+up);
-                                }, 200);
+                                }, 10);
                                 setTimeout(function() {
                                   var r = confirm("Please Login to Vote\nGo to Login Page?");
                                   if(r)
                                   {
                                     window.location = '/login/';
                                   }
-                                }, 700);  
+                                }, 10);  
                             }
                     },
                     error:function(){
@@ -149,11 +149,45 @@ function goTo(num){
             url: '/get_data.php',
             data: req,
             type: 'POST',
-            success: function(data)
-            {
-                window.location= data;
-               // window.location.assign(data);
-               //window.open(data,'_blank');
+            success: function(data){
+                var newWin = window.open(data,'_blank');
+                
+                var popupBlockerChecker = {
+                    check: function(popup_window){
+                        var _scope = this;
+                        if (popup_window) {
+                            if(/chrome/.test(navigator.userAgent.toLowerCase())){
+                                setTimeout(function () {
+                                    _scope._is_popup_blocked(_scope, popup_window);
+                                 },200);
+                            }else{
+                                popup_window.onload = function () {
+                                    _scope._is_popup_blocked(_scope, popup_window);
+                                };
+                            }
+                        }else{
+                            _scope._displayError();
+                        }
+                    },
+                    _is_popup_blocked: function(scope, popup_window){
+                        if ((popup_window.innerHeight > 0)==false){ scope._displayError(); }
+                    },
+                    _displayError: function(){
+                        alert("Popup Blocker is enabled! Please add this site to your exception list.");
+                    }
+                };
+
+                popupBlockerChecker.check(newWin);
+
+                /*if(!newWin || newWin.closed || typeof newWin.closed=='undefined') {
+                     //POPUP BLOCKED
+                    window.location= data;
+                }
+                else{
+
+                    window.open(data,'_blank');
+                    window.location.assign(data);
+                }*/
             },
             error:function(){},
          });

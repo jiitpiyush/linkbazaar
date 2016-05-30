@@ -11,14 +11,12 @@
     <link rel="icon" type="image/png" href="/images/logo.png" />
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <meta charset="utf-8"/>
-    <script type="text/javascript" src="/js/jquery.min.js"></script>
     <link rel='stylesheet' href='/css/bootstrap.min.css'><!--3.3.0-->
-    <!-- Latest compiled and minified JavaScript -->
-    <!--3.3.0-->
-    <script src='/js/bootstrap.min.js'></script>
     <link rel='stylesheet' href='/css/style-min-v1.css'>
     <link rel='stylesheet' type='text/css' href='/css/main.css'>
     <link rel='stylesheet' type='text/css' href='/css/button.css'>
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script src='/js/bootstrap.min.js'></script>
     <script type='text/javascript' src='/js/click.js'></script>
 </head>
 

@@ -4,7 +4,7 @@
 	//$db_p 	= '#Neverused1%%';
 	
 	$db_u 	= 'root';
-	$db_p 	= '';
+	$db_p 	= 'password';
 	
 
 	$db_n 	= 'linkbdb';

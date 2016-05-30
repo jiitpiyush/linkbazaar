@@ -70,3 +70,4 @@ else
     $content = '<a href="https://www.facebook.com/dialog/oauth?client_id='.$config['App_ID'].'&redirect_uri='.$config['callback_url'].'&scope=email,user_likes,user_friends"><img src="/login/fb/images/login-button.png" alt="Sign in with Facebook"/></a>';
     echo $content;
 }
+?>

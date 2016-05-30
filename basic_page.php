@@ -1,23 +1,23 @@
 <?php   $base = $_SERVER['DOCUMENT_ROOT']; ?>
-<?php   include "$base/data.php" ?>
-<?php	include "$base/list_view.php" ?>
+<?php   include "$base/data.php"; ?>
+<?php	include "$base/list_view.php"; ?>
+<?php   include "$base/name_array.php"; ?>
 <?php   session_start(); ?>
 
 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>LinkBazaar</title>
+    <title> Linkbazaar | <?php echo  $name[$cat]; ?></title>
     <link rel="icon" type="image/png" href="/images/logo.png" />
     <meta charset="utf-8"/>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <script src="/js/jquery.min.js"></script>
-    <!--3.3.0-->
-    <link rel='stylesheet' href='/css/bootstrap.min.css'>
-    <script src='/js/bootstrap.min.js'></script>
+    <link rel='stylesheet' href='/css/bootstrap.min.css'><!--3.3.0-->
     <link rel='stylesheet' href='/css/style-min-v1.css'>
     <link rel='stylesheet' type='text/css' href='/css/main.css'>
     <link rel='stylesheet' type='text/css' href='/css/button.css'>
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script src='/js/bootstrap.min.js'></script>
     <script type='text/javascript' src='/js/click.js'></script>
 
 </head>

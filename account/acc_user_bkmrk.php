@@ -150,7 +150,8 @@
                         </div>
                         <div class="btn-group" role="group">
                             <a href="history/">
-                                <button type="button" id="following" class="btn btn-default"><img src="http://uxrepo.com/static/icon-sets/google-material/png32/256/000000/android-history-256-000000.png" width=28.05px height=24px/>
+                                <button type="button" id="following" class="btn btn-default">
+                                <img src="/images/history_icon.png" width=28.05px height=24px/>
                                 <div class="hidden-xs">History</div>
                             </button>
                             </a>
