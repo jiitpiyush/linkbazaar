@@ -1,8 +1,8 @@
 <?php
 	$db_s 	= 'localhost';
 	
-	$db_u 	= 'root';
-	$db_p 	= 'password';
+	$db_u 	= 'jiitpiyush';
+	$db_p 	= '#Neverused1%%';
 	
 
 	$db_n 	= 'linkbdb';
