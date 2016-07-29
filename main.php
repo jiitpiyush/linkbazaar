@@ -8,8 +8,8 @@
         <meta charset="utf-8"/>
         <script src="/js/jquery.min.js" ></script>
 	    <link rel="stylesheet" href="/css/bootstrap.min.css"> <!--3.3.0-->
-        <meta name="Description" content="Find Good links related to engineering, medical , jobs, results, internships, music , movies , ebooks , readings, trending and much many more ...">
-        <meta name="Keywords" content="link, bazar, bazaar, engineering, results, internship, cricket, jobs, recharge, offers, coupons, computer science, cse , biotech, mechanical , civil , electronics , chemical , ebooks, novels, news , biography, research , magazines, music, movies , gaming,  government, shoppings, home , rent, property, travel, foods, ebanking , engineering, medical, upsc, bank, high school results, intermediate results, private jobs, upsc services, bank exams, maharatna companies jobs, navratna companies jobs, others, mbbs , md, b.pharma, bams, bms, bhms, ca , cfa ,cs, mba, b.com, m.com">
+        <meta name="Description" content="Welcome To LinkBazaar.com .Find Good links related to engineering, medical , jobs, results, internships, music , movies , ebooks , readings, trending and much many more ...">
+        <meta name="Keywords" content="link, bazaar, bazar, engineering, results, internship, cricket, jobs, recharge, offers, coupons, computer science, cse , biotech, mechanical , civil , electronics , chemical , ebooks, novels, news , biography, research , magazines, music, movies , gaming,  government, shoppings, home , rent, property, travel, foods, ebanking , engineering, medical, upsc, bank, high school results, intermediate results, private jobs, upsc services, bank exams, maharatna companies jobs, navratna companies jobs, others, mbbs , md, b.pharma, bams, bms, bhms, ca , cfa ,cs, mba, b.com, m.com">
 
     </head>
     <body>

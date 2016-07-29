@@ -29,6 +29,8 @@ SetOutputFilter DEFLATE
 SetOutputFilter DEFLATE
 </files>
 
+#FileETag none
+FileETag -INode
 
 
 RewriteEngine On

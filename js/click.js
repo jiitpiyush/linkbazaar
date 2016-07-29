@@ -173,7 +173,7 @@ function goTo(num){
                         if ((popup_window.innerHeight > 0)==false){ scope._displayError(); }
                     },
                     _displayError: function(){
-                        alert("Popup Blocker is enabled! Please add this site to your exception list.");
+                        alert("Popup is Blocked in Your Browser. Please add this site to your exception list.");
                     }
                 };
 
