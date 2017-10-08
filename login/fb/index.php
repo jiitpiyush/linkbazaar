@@ -47,15 +47,15 @@ if(isset($_GET['fbTrue']))
      $response = getHTML($token_url);
      $params = null;
      parse_str($response, $params);
-
-     $graph_url = "https://graph.facebook.com/me?fields=name,email,id&access_token=" 
-       . $params['access_token'];
-
+     foreach ($params as $key => $value){
+	$param = json_decode($key);
+	break;
+	}
+     $graph_url = "https://graph.facebook.com/me?fields=name,email,id&access_token=". $param->access_token;
      $user = json_decode(getHTML($graph_url));
-     $extra = "<a href='index.php?logout=1&tocken=".$params['access_token']."'><img src='/login/fb/images/logout-button.png' alt='Sign Out'/></a><br>"; 
+     $extra = "<a href='index.php?logout=1&tocken=".$param->access_token."'><img src='/login/fb/images/logout-button.png' alt='Sign Out'/></a><br>"; 
      $name = $user->name;
      $email = $user->email;
-
      session_start();
      $_SESSION['Username'] = $name;
      $_SESSION['LoggedIn'] = 1;

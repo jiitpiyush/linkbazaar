@@ -4,7 +4,7 @@
         header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
 ?>
 <?php 
-        session_set_cookie_params(60*60*24*10, '/', '.linkbazaar.info/');
+        session_set_cookie_params(60*60*24*10, '/', '.linkbazaar.info');
         session_start();
 ?>
 <?php $base = $_SERVER['DOCUMENT_ROOT']; ?>
