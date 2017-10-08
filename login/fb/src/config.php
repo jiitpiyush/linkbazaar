@@ -1,5 +1,5 @@
 <?php
-$config['callback_url']=   'http://www.linkbazaar.com/login/fb/?fbTrue=true'; //   /?fbTrue=true allow you to code process section.
+$config['callback_url']=   'http://www.linkbazaar.info/login/fb/?fbTrue=true'; //   /?fbTrue=true allow you to code process section.
 
 //Facebook configuration
 $config['App_ID']      =   '906581126069919';

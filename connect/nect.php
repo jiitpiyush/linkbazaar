@@ -1,11 +1,11 @@
 <?php
 	$db_s 	= 'localhost';
 	
-	$db_u 	= 'jiitpiyush';
-	$db_p 	= '#Neverused1%%';
+	$db_u 	= 'root';
+	$db_p 	= 'test@dental';
 	
 
-	$db_n 	= 'linkbdb';
+	$db_n 	= 'system';
 	$table		= 'lb_engg';
 	$history_table = 'lb_user_history';
 	$bookmark_table = 'lb_user_bookmark';

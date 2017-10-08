@@ -39,6 +39,6 @@ FileETag -INode
 
 
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^linkbazaar.com [NC]
+RewriteCond %{HTTP_HOST} ^linkbazaar.info [NC]
 RewriteCond %{HTTP_HOST} !^(www\.example\.com)?$ 
-RewriteRule ^(.*)$ http://www.linkbazaar.com/$1 [L,R=301]
+RewriteRule ^(.*)$ http://www.linkbazaar.info/$1 [L,R=301]

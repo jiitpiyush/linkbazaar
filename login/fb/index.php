@@ -29,7 +29,7 @@ $facebook = new Facebook(array(
 
 if(isset($_GET['logout']))       
 {
-    $url = 'https://www.facebook.com/logout.php?next=' . urlencode('http://linkbazaar.com/login/fb/') .
+    $url = 'https://www.facebook.com/logout.php?next=' . urlencode('http://linkbazaar.info/login/fb/') .
       '&access_token='.$_GET['tocken'];
     session_start();
     $_SESSION['Username'] = NULL;
@@ -61,7 +61,7 @@ if(isset($_GET['fbTrue']))
      $_SESSION['LoggedIn'] = 1;
      $_SESSION['id'] = $user->id;
      $_SESSION['f_login'] = 1;
-     $usl = "http://www.linkbazaar.com/login";
+     $usl = "http://www.linkbazaar.info/login";
      header("Location: $usl");
 }
 else

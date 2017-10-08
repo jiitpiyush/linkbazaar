@@ -258,8 +258,8 @@
 													$msg = 'Your Verification Code For LinkBazaar is '. $n_pin;
 													$sub = 'Forgot Password';
 													$msg =  wordwrap($msg,70);
-													$headers = 'From: noreply@linkbazaar.com' . "\r\n" .
-															    'Reply-To: piyush@linkbazaar.com' . "\r\n" .
+													$headers = 'From: noreply@linkbazaar.info' . "\r\n" .
+															    'Reply-To: piyush@linkbazaar.info' . "\r\n" .
 															    'X-Mailer: PHP/' . phpversion();
 
 													if(mail($to,$sub,$msg,$headers))

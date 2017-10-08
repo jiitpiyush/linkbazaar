@@ -10,7 +10,7 @@
         {
             unset($_SESSION['hp']);
             $_SESSION['hp'] = $speed;
-            //header('Location: http://www.linkbazaar.com/');
+            //header('Location: http://www.linkbazaar.info/');
             header('Location: /');
         }
         else if(!empty($_SESSION['hp']))

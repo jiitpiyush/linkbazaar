@@ -70,7 +70,7 @@
 				<center>
 						<div class='container' style='max-width:300px;position: absolute; left: 50%;'>
 							<div style='position: relative; left: -50%;'>
-								<form class='form-signin' action='http://www.linkbazaar.com/login/' method='post'>
+								<form class='form-signin' action='http://www.linkbazaar.info/login/' method='post'>
 									<h2 class='form-signin-heading'>Log in</h2><br>
 		                                                         
 		                                                         <?php
