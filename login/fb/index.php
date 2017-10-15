@@ -48,9 +48,9 @@ if(isset($_GET['fbTrue']))
      $params = null;
      parse_str($response, $params);
      foreach ($params as $key => $value){
-	$param = json_decode($key);
-	break;
-	}
+		$param = json_decode($key);
+		break;
+	 }
      $graph_url = "https://graph.facebook.com/me?fields=name,email,id&access_token=". $param->access_token;
      $user = json_decode(getHTML($graph_url));
      $extra = "<a href='index.php?logout=1&tocken=".$param->access_token."'><img src='/login/fb/images/logout-button.png' alt='Sign Out'/></a><br>"; 
