@@ -2,10 +2,10 @@
 	$db_s 	= 'localhost';
 	
 	$db_u 	= 'root';
-	$db_p 	= 'test@dental';
+	$db_p 	= 'piyush@123';
 	
 
-	$db_n 	= 'system';
+	$db_n 	= 'linkbazaar_db';
 	$table		= 'lb_engg';
 	$history_table = 'lb_user_history';
 	$bookmark_table = 'lb_user_bookmark';
